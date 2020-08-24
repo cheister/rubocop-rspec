@@ -2,6 +2,8 @@
 
 ## Master (Unreleased)
 
+* Fix false positives in `RSpec/EmptyExampleGroup`. ([@pirj][])
+
 ## 1.43.2 (2020-08-25)
 
 * Fix `RSpec/FilePath` when checking a file with a shared example. ([@pirj][])
