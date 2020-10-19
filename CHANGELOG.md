@@ -2,6 +2,8 @@
 
 ## Master (Unreleased)
 
+## 1.43.3 (2020-10-20)
+
 * Fix false positives in `RSpec/EmptyExampleGroup`. ([@pirj][])
 * Fix a false positive for `RSpec/EmptyExampleGroup` when example is defined in an `if` branch. ([@koic][])
 
