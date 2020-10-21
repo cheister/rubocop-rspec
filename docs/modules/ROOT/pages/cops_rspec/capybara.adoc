@@ -1,6 +1,6 @@
-= Capybara
+= RSpec/Capybara
 
-== Capybara/CurrentPathExpectation
+== RSpec/Capybara/CurrentPathExpectation
 
 |===
 | Enabled by default | Safe | Supports autocorrection | VersionAdded | VersionChanged
@@ -39,7 +39,7 @@ expect(page).to have_current_path(/widgets/)
 
 * https://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Capybara/CurrentPathExpectation
 
-== Capybara/FeatureMethods
+== RSpec/Capybara/FeatureMethods
 
 |===
 | Enabled by default | Safe | Supports autocorrection | VersionAdded | VersionChanged
@@ -106,7 +106,7 @@ end
 
 * https://www.rubydoc.info/gems/rubocop-rspec/RuboCop/Cop/RSpec/Capybara/FeatureMethods
 
-== Capybara/VisibilityMatcher
+== RSpec/Capybara/VisibilityMatcher
 
 |===
 | Enabled by default | Safe | Supports autocorrection | VersionAdded | VersionChanged
